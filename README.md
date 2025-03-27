@@ -82,10 +82,6 @@ python src/deadlock_detector.py
 - Support multi-resource allocation tracking.
 - Use machine learning to predict deadlocks.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Contributors
 
 - Aditya Ranjan Behera
