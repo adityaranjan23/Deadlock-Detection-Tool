@@ -1,5 +1,5 @@
 # Deadlock-Detection-Tool
-
+######
 ## 📌 Overview
 
 The **Automated Deadlock Detection Tool** is designed to monitor system processes and resources, detect potential deadlocks, and provide resolution options. It utilizes system calls, process monitoring, and graph-based cycle detection algorithms to analyze deadlock scenarios dynamically.
