@@ -12,21 +12,15 @@ The **Automated Deadlock Detection Tool** is designed to monitor system processe
 - **Automated Monitoring:** Runs periodically via cron jobs or system daemons.
 - **Visualization & Logging:** Displays deadlock conditions and logs them for future reference.
 
-## 🛠️ Technology Stack
 
 ### Programming Languages
 
 - **Python** - For system monitoring and graph processing.
-- **C/C++** - For low-level OS interactions.
 
 ### Libraries and Tools
 
-- `networkx` - Graph-based deadlock detection.
-- `psutil` - Process monitoring in Python.
-- `Boost Graph Library` - C++ graph analysis.
 - **GitHub** - Version control and collaboration.
-- **Linux /proc Filesystem** - For real-time process tracking.
-- **Task Scheduler/Cron Jobs** - For automated execution.
+- **VS code** - Coding environment.
 
 ## 📂 Project Structure
 
@@ -86,4 +80,4 @@ python src/deadlock_detector.py
 
 - Aditya Ranjan Behera
 - Shorya Pratap Singh
-
+- Rajat
